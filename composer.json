@@ -1,0 +1,34 @@
+{
+    "name": "mooror/sl-prepend-append-field",
+    "description": "A silverstripe 3.3+ module that adds a new text field type for prepending or appending content onto passed in user values.",
+    "type": "silverstripe-module",
+    "homepage": "https://github.com/mooror/sl-prepend-append-field",
+    "keywords": ["silverstripe", "sitelease", "prepend", "append", "field"],
+    "time": "2017-02-07",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Benjamin Blake",
+            "email": "ben@sitelease.ca",
+            "homepage": "http://www.sitelease.ca",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "support@sitelease.ca",
+        "issues": "https://github.com/mooror/sl-prepend-append-field/issues",
+        "wiki": "https://github.com/mooror/sl-prepend-append-field/wiki",
+        "source": "https://github.com/mooror/sl-prepend-append-field",
+        "docs": "https://github.com/mooror/sl-prepend-append-field/wiki"
+    },
+    "require": {
+      "silverstripe/cms": "~3.1",
+  		"silverstripe/framework": "~3.1"
+  	},
+    "extra": {
+      "installer-name": "sl-prepend-append-field",
+      "screenshots": [
+        "docs/screenshots/PrependAppendField.png"
+      ]
+    }
+}
