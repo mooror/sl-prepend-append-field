@@ -15,7 +15,7 @@ Screenshots
 Documentation
 ------------
 
-Originally inspired by Cpanel's database fields and bootstrap's input groups, this module adds a new form field type to silvertripe called PrependAppendField. This field type is a subclass of the TextField but with the addition of prepending and appending functionality (+ basic validation). This added functionality allows for a very simple way of appending or prepending strings onto user input and storing it in the database.
+Originally inspired by Cpanel's database fields and bootstrap's input groups, this module adds a new form field type to silverstripe called PrependAppendField. This field type is a subclass of the TextField class with the addition of prepending and appending functionality (+ basic validation). This added functionality allows for a very simple way of appending or prepending strings onto user input and storing it in the database.
 
 Installation
 ------------
@@ -34,8 +34,8 @@ Support
 ------------
 If you are in need of support, or wish to ask us a question, please create an issue [here](https://github.com/mooror/sl-prepend-append-field/issues), and we will do our best to assist you.
 
-Note: Please make sure to format the title of your issue in the following manner: `[Question] Title of your question`.
+Note: Please make sure to format the title of your issue in the following manner: `[Support] Title of your question or issue`. This will help us to seperate bugs and feature requests from support issues.
 
 Created By
 ------------
-[![flexichoice field](docs/screenshots/sl-logo.jpg?raw=true)](http://www.sitelease.ca)
+[![sitelease.ca](docs/screenshots/sl-logo.jpg?raw=true)](http://www.sitelease.ca)
